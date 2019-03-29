@@ -18,4 +18,8 @@ public class Prueba {
         // TODO code application logic here
     }
     
+    public static void hola(){
+       system.out.println("hola"); 
+    }
+        
 }
